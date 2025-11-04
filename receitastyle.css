@@ -1,0 +1,10 @@
+body {
+  background-color: #fff8dc; /* Light cream color for the page background */
+  font-family: Georgia, serif; /* Sets the font to Georgia, or a generic serif font */
+  padding: 20px; /* Adds 20px of space inside the body edges */
+}
+
+img {
+  border: 2px solid #ffa500; /* Adds a 2px thick solid orange border around images */
+  border-radius: 10px; /* Rounds the corners of the images slightly */
+}
